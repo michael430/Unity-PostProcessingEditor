@@ -1,5 +1,5 @@
 # Unity-PostProcessingEditor
-Directly show the profile setting under the PostProcessingBehaviour component.
+Directly show the profile settings under the PostProcessingBehaviour component.
 
 ## Usge:
 Replace this with the original PostProcessingBehaviourEditor.cs file.
