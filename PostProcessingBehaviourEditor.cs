@@ -26,7 +26,7 @@ namespace UnityEditor.PostProcessing
 
             if(m_Profile.objectReferenceValue == null)
             {
-				EditorGUILayout.HelpBox ("Please assign a PostProcessing profile here.", MessageType.Warning);
+		EditorGUILayout.HelpBox ("Please assign a PostProcessing profile here.", MessageType.Warning);
                 profileEditor = null;
             }
             else
