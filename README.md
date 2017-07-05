@@ -14,3 +14,5 @@ Replace this with the original PostProcessingBehaviourEditor.cs file.
 
 
 ![Unity PostProcessing Screen Shot](./PostProcessingEditor.png)
+
+Unity version: 5.6
